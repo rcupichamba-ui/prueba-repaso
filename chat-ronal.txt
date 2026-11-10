@@ -7,3 +7,4 @@
 "La carrera consiste en aprender a dise¤ar, desarrollar, probar y mantener sistemas y aplicaciones de software mediante programacion y bases de datos." 
 Pregunta 1: Que es una clase y un objeto en POO?
 "Pregunta 2: Que es una base de datos y para que sirve en el desarrollo de software?" 
+"Pregunta 3: Cual es la diferencia entre un error de sintaxis y un error de logica?" 
