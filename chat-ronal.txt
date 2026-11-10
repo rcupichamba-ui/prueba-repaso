@@ -3,3 +3,4 @@
 "Hola Yanes, soy Ronal" 
 "Ya uso mi rama, Ronal" 
 "Hola Yanes, te env¡o este mensaje desde mi rama" 
+"POO es Programacion Orientada a Objetos, un paradigma basado en clases y objetos." 
