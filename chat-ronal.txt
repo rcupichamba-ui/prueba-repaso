@@ -8,3 +8,4 @@
 Pregunta 1: Que es una clase y un objeto en POO?
 "Pregunta 2: Que es una base de datos y para que sirve en el desarrollo de software?" 
 "Pregunta 3: Cual es la diferencia entre un error de sintaxis y un error de logica?" 
+ "Pregunta 4: Para que sirve un sistema de control de versiones como Git?" 
