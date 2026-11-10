@@ -10,3 +10,8 @@ Pregunta 1: Que es una clase y un objeto en POO?
 "Pregunta 3: Cual es la diferencia entre un error de sintaxis y un error de logica?" 
  "Pregunta 4: Para que sirve un sistema de control de versiones como Git?" 
  "Pregunta 5: Cuales son los 4 pilares fundamentales de la Programacion Orientada a Objetos?" 
+Respuesta 1: Una clase es una plantilla o molde que define los atributos y métodos que tendrán los objetos, y un objeto es una instancia concreta creada a partir de esa clase.
+Respuesta 2: Una base de datos es un sistema estructurado para almacenar, organizar y consultar información digital; sirve para gestionar los datos de una aplicación de forma eficiente y segura.
+Respuesta 3: Un error de sintaxis ocurre cuando se viola la gramática del lenguaje de programación (el compilador no deja ejecutar), mientras que un error de lógica ocurre cuando el código corre pero arroja resultados incorrectos o inesperados.
+Respuesta 4: Sirve para registrar, rastrear, coordinar y gestionar todos los cambios en el código fuente de un proyecto a lo largo del tiempo, facilitando el trabajo en equipo.
+Respuesta 5: Los 4 pilares fundamentales de la POO son la abstracción, la encapsulación, la herencia y el polimorfismo.
